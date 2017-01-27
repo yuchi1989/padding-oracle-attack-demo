@@ -1,14 +1,14 @@
 # Padding Oracle Attack Demo
 
 ### Prerequisites
-Python3
-pip3
-PyCrypto
+Python3  
+pip3  
+PyCrypto  
 
 ### Installation instructions for ubuntu 14.04
-sudo apt-get install python3
-sudo apt-get install python3-pip
-pip3 install pycrypto
+sudo apt-get install python3  
+sudo apt-get install python3-pip  
+pip3 install pycrypto  
 
 ### Example
 ```python
